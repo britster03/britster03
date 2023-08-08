@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/britster03](https://github.com/britster03)
 
-- 💬 Ask me about **reactjs,flutter,django**
+- 💬 Ask me about **reactjs,php,django**
 
 - 📫 How to reach me **ronitvirwani1@gmail.com**
 
