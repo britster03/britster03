@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Research Projects**
 
-- 🌱 I’m currently learning **Django REST API**
+- 🌱 I’m currently learning **Next.js**
 
 - 🤝 I’m looking for help with **Deep Learning Research**
 
