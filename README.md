@@ -2,15 +2,15 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Research Projects**
+- 🔭 I’m currently working on **Research Involving Large Language Models**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **FastAPI**
 
-- 🤝 I’m looking for help with **Deep Learning Research**
+- 🤝 Open to collaborating on **Developing AI Solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/britster03](https://github.com/britster03)
 
-- 💬 Ask me about **reactjs,php,django**
+- 💬 Ask me about **Langchain, Vector Databases, LLMs**
 
 - 📫 How to reach me **ronitvirwani1@gmail.com**
 
